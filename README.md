@@ -119,15 +119,10 @@ Open your browser at **http://localhost:8501**
 | 40-59%  | Distracted     |
 | 0-39%   | Disengaged     |
 
-## Built for
-
-IIT Mandi portfolio project — demonstrating skills in computer vision,
-real-time systems, machine learning pipelines, database engineering,
-and full-stack Python development.
 
 ## Author
 
-Your Name — [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Your Name — Sunakshi8
 
 ```
 
