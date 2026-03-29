@@ -1,0 +1,33 @@
+camera:
+  index: 0
+  width: 1280
+  height: 720
+  fps: 30
+
+focus_engine:
+  ema_alpha: 0.08
+  window_frames: 150
+  weights:
+    gaze: 0.35
+    head_pose: 0.25
+    ear: 0.20
+    blink_rate: 0.12
+    yawn: 0.08
+
+thresholds:
+  ear_blink: 0.22
+  ear_closed: 0.18
+  mar_yawn: 0.60
+  gaze_limit: 0.40
+  head_yaw_limit: 25
+  head_pitch_limit: 25
+
+alerts:
+  cooldown_s: 30
+
+pomodoro:
+  work_min: 25
+  break_min: 5
+
+database:
+  path: data/sessions.db
